@@ -16,7 +16,6 @@ A simple browser extension to add personalized notes to video bookmarks on YouTu
 * Bookmark in a video on YouTube.
 * Click the extension icon to add or edit notes.
 ## Technologies
-HTML, CSS, Java
-## License
-MIT License
+HTML, CSS, JavaScript
+
 
